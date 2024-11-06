@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning Problem-Solving and Machine Learning.
+- Recently, My Original Github Account(Jinsoolve) is locked for an unkown reason. So I'll use this temporary Github Account(Jinsoolve1) Until my original account is unlocked.
 
 
 [![Solved.ac
